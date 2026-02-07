@@ -1,0 +1,28 @@
+# Backend (Java/Maven)
+backend/target/
+backend/*.log
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/backend.log
+
+# Frontend (Node.js)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/*.log
+frontend/.vite/
+frontend/frontend.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Environment
+.env
+*.env.local
+
+# OS
+Thumbs.db
